@@ -1,0 +1,15 @@
+C:\Repository\NET\Unidad02\Lab01\Iteracion\obj\Debug\net6.0\Iteracion.csproj.AssemblyReference.cache
+C:\Repository\NET\Unidad02\Lab01\Iteracion\obj\Debug\net6.0\Iteracion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\NET\Unidad02\Lab01\Iteracion\obj\Debug\net6.0\Iteracion.AssemblyInfoInputs.cache
+C:\Repository\NET\Unidad02\Lab01\Iteracion\obj\Debug\net6.0\Iteracion.AssemblyInfo.cs
+C:\Repository\NET\Unidad02\Lab01\Iteracion\obj\Debug\net6.0\Iteracion.csproj.CoreCompileInputs.cache
+C:\Repository\NET\Unidad02\Lab01\Iteracion\bin\Debug\net6.0\Iteracion.exe
+C:\Repository\NET\Unidad02\Lab01\Iteracion\bin\Debug\net6.0\Iteracion.deps.json
+C:\Repository\NET\Unidad02\Lab01\Iteracion\bin\Debug\net6.0\Iteracion.runtimeconfig.json
+C:\Repository\NET\Unidad02\Lab01\Iteracion\bin\Debug\net6.0\Iteracion.dll
+C:\Repository\NET\Unidad02\Lab01\Iteracion\bin\Debug\net6.0\Iteracion.pdb
+C:\Repository\NET\Unidad02\Lab01\Iteracion\obj\Debug\net6.0\Iteracion.dll
+C:\Repository\NET\Unidad02\Lab01\Iteracion\obj\Debug\net6.0\refint\Iteracion.dll
+C:\Repository\NET\Unidad02\Lab01\Iteracion\obj\Debug\net6.0\Iteracion.pdb
+C:\Repository\NET\Unidad02\Lab01\Iteracion\obj\Debug\net6.0\Iteracion.genruntimeconfig.cache
+C:\Repository\NET\Unidad02\Lab01\Iteracion\obj\Debug\net6.0\ref\Iteracion.dll

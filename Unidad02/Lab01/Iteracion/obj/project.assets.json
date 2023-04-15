@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repository\\NET\\Unidad02\\Capitulo01\\Iteracion\\Iteracion.csproj",
+      "projectUniqueName": "C:\\Repository\\NET\\Unidad02\\Lab01\\Iteracion\\Iteracion.csproj",
       "projectName": "Iteracion",
-      "projectPath": "C:\\Repository\\NET\\Unidad02\\Capitulo01\\Iteracion\\Iteracion.csproj",
+      "projectPath": "C:\\Repository\\NET\\Unidad02\\Lab01\\Iteracion\\Iteracion.csproj",
       "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-      "outputPath": "C:\\Repository\\NET\\Unidad02\\Capitulo01\\Iteracion\\obj\\",
+      "outputPath": "C:\\Repository\\NET\\Unidad02\\Lab01\\Iteracion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
