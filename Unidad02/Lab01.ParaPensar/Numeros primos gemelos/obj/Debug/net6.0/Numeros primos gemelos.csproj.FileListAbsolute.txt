@@ -1,0 +1,15 @@
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros primos gemelos\bin\Debug\net6.0\Numeros primos gemelos.exe
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros primos gemelos\bin\Debug\net6.0\Numeros primos gemelos.deps.json
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros primos gemelos\bin\Debug\net6.0\Numeros primos gemelos.runtimeconfig.json
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros primos gemelos\bin\Debug\net6.0\Numeros primos gemelos.dll
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros primos gemelos\bin\Debug\net6.0\Numeros primos gemelos.pdb
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros primos gemelos\obj\Debug\net6.0\Numeros primos gemelos.csproj.AssemblyReference.cache
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros primos gemelos\obj\Debug\net6.0\Numeros primos gemelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros primos gemelos\obj\Debug\net6.0\Numeros primos gemelos.AssemblyInfoInputs.cache
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros primos gemelos\obj\Debug\net6.0\Numeros primos gemelos.AssemblyInfo.cs
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros primos gemelos\obj\Debug\net6.0\Numeros primos gemelos.csproj.CoreCompileInputs.cache
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros primos gemelos\obj\Debug\net6.0\Numeros primos gemelos.dll
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros primos gemelos\obj\Debug\net6.0\refint\Numeros primos gemelos.dll
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros primos gemelos\obj\Debug\net6.0\Numeros primos gemelos.pdb
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros primos gemelos\obj\Debug\net6.0\Numeros primos gemelos.genruntimeconfig.cache
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros primos gemelos\obj\Debug\net6.0\ref\Numeros primos gemelos.dll

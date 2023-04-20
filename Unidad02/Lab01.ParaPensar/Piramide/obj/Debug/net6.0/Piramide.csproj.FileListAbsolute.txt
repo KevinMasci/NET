@@ -1,0 +1,15 @@
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Piramide\bin\Debug\net6.0\Piramide.exe
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Piramide\bin\Debug\net6.0\Piramide.deps.json
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Piramide\bin\Debug\net6.0\Piramide.runtimeconfig.json
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Piramide\bin\Debug\net6.0\Piramide.dll
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Piramide\bin\Debug\net6.0\Piramide.pdb
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Piramide\obj\Debug\net6.0\Piramide.csproj.AssemblyReference.cache
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Piramide\obj\Debug\net6.0\Piramide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Piramide\obj\Debug\net6.0\Piramide.AssemblyInfoInputs.cache
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Piramide\obj\Debug\net6.0\Piramide.AssemblyInfo.cs
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Piramide\obj\Debug\net6.0\Piramide.csproj.CoreCompileInputs.cache
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Piramide\obj\Debug\net6.0\Piramide.dll
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Piramide\obj\Debug\net6.0\refint\Piramide.dll
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Piramide\obj\Debug\net6.0\Piramide.pdb
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Piramide\obj\Debug\net6.0\Piramide.genruntimeconfig.cache
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Piramide\obj\Debug\net6.0\ref\Piramide.dll

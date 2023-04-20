@@ -1,0 +1,15 @@
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numero de mes\bin\Debug\net6.0\Numero de mes.exe
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numero de mes\bin\Debug\net6.0\Numero de mes.deps.json
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numero de mes\bin\Debug\net6.0\Numero de mes.runtimeconfig.json
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numero de mes\bin\Debug\net6.0\Numero de mes.dll
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numero de mes\bin\Debug\net6.0\Numero de mes.pdb
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numero de mes\obj\Debug\net6.0\Numero de mes.csproj.AssemblyReference.cache
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numero de mes\obj\Debug\net6.0\Numero de mes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numero de mes\obj\Debug\net6.0\Numero de mes.AssemblyInfoInputs.cache
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numero de mes\obj\Debug\net6.0\Numero de mes.AssemblyInfo.cs
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numero de mes\obj\Debug\net6.0\Numero de mes.csproj.CoreCompileInputs.cache
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numero de mes\obj\Debug\net6.0\Numero de mes.dll
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numero de mes\obj\Debug\net6.0\refint\Numero de mes.dll
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numero de mes\obj\Debug\net6.0\Numero de mes.pdb
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numero de mes\obj\Debug\net6.0\Numero de mes.genruntimeconfig.cache
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numero de mes\obj\Debug\net6.0\ref\Numero de mes.dll

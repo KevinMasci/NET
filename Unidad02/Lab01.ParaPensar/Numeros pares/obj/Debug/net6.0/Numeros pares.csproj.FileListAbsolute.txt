@@ -1,0 +1,15 @@
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros pares\bin\Debug\net6.0\Numeros pares.exe
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros pares\bin\Debug\net6.0\Numeros pares.deps.json
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros pares\bin\Debug\net6.0\Numeros pares.runtimeconfig.json
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros pares\bin\Debug\net6.0\Numeros pares.dll
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros pares\bin\Debug\net6.0\Numeros pares.pdb
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros pares\obj\Debug\net6.0\Numeros pares.csproj.AssemblyReference.cache
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros pares\obj\Debug\net6.0\Numeros pares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros pares\obj\Debug\net6.0\Numeros pares.AssemblyInfoInputs.cache
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros pares\obj\Debug\net6.0\Numeros pares.AssemblyInfo.cs
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros pares\obj\Debug\net6.0\Numeros pares.csproj.CoreCompileInputs.cache
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros pares\obj\Debug\net6.0\Numeros pares.dll
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros pares\obj\Debug\net6.0\refint\Numeros pares.dll
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros pares\obj\Debug\net6.0\Numeros pares.pdb
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros pares\obj\Debug\net6.0\Numeros pares.genruntimeconfig.cache
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros pares\obj\Debug\net6.0\ref\Numeros pares.dll
