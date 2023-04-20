@@ -1,0 +1,15 @@
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Clave\bin\Debug\net6.0\Clave.exe
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Clave\bin\Debug\net6.0\Clave.deps.json
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Clave\bin\Debug\net6.0\Clave.runtimeconfig.json
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Clave\bin\Debug\net6.0\Clave.dll
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Clave\bin\Debug\net6.0\Clave.pdb
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Clave\obj\Debug\net6.0\Clave.csproj.AssemblyReference.cache
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Clave\obj\Debug\net6.0\Clave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Clave\obj\Debug\net6.0\Clave.AssemblyInfoInputs.cache
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Clave\obj\Debug\net6.0\Clave.AssemblyInfo.cs
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Clave\obj\Debug\net6.0\Clave.csproj.CoreCompileInputs.cache
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Clave\obj\Debug\net6.0\Clave.dll
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Clave\obj\Debug\net6.0\refint\Clave.dll
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Clave\obj\Debug\net6.0\Clave.pdb
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Clave\obj\Debug\net6.0\Clave.genruntimeconfig.cache
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Clave\obj\Debug\net6.0\ref\Clave.dll

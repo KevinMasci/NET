@@ -1,0 +1,15 @@
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros romanos\obj\Debug\net6.0\Numeros romanos.csproj.AssemblyReference.cache
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros romanos\obj\Debug\net6.0\Numeros romanos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros romanos\obj\Debug\net6.0\Numeros romanos.AssemblyInfoInputs.cache
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros romanos\obj\Debug\net6.0\Numeros romanos.AssemblyInfo.cs
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros romanos\obj\Debug\net6.0\Numeros romanos.csproj.CoreCompileInputs.cache
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros romanos\bin\Debug\net6.0\Numeros romanos.exe
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros romanos\bin\Debug\net6.0\Numeros romanos.deps.json
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros romanos\bin\Debug\net6.0\Numeros romanos.runtimeconfig.json
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros romanos\bin\Debug\net6.0\Numeros romanos.dll
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros romanos\bin\Debug\net6.0\Numeros romanos.pdb
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros romanos\obj\Debug\net6.0\Numeros romanos.dll
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros romanos\obj\Debug\net6.0\refint\Numeros romanos.dll
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros romanos\obj\Debug\net6.0\Numeros romanos.pdb
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros romanos\obj\Debug\net6.0\Numeros romanos.genruntimeconfig.cache
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Numeros romanos\obj\Debug\net6.0\ref\Numeros romanos.dll

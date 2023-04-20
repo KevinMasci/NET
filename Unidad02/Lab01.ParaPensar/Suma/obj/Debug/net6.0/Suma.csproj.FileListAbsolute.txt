@@ -1,0 +1,15 @@
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Suma\bin\Debug\net6.0\Suma.exe
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Suma\bin\Debug\net6.0\Suma.deps.json
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Suma\bin\Debug\net6.0\Suma.runtimeconfig.json
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Suma\bin\Debug\net6.0\Suma.dll
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Suma\bin\Debug\net6.0\Suma.pdb
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Suma\obj\Debug\net6.0\Suma.csproj.AssemblyReference.cache
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Suma\obj\Debug\net6.0\Suma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Suma\obj\Debug\net6.0\Suma.AssemblyInfoInputs.cache
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Suma\obj\Debug\net6.0\Suma.AssemblyInfo.cs
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Suma\obj\Debug\net6.0\Suma.csproj.CoreCompileInputs.cache
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Suma\obj\Debug\net6.0\Suma.dll
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Suma\obj\Debug\net6.0\refint\Suma.dll
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Suma\obj\Debug\net6.0\Suma.pdb
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Suma\obj\Debug\net6.0\Suma.genruntimeconfig.cache
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Suma\obj\Debug\net6.0\ref\Suma.dll

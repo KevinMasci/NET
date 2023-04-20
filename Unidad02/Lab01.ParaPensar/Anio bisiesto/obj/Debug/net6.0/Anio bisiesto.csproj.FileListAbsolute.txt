@@ -1,0 +1,15 @@
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Anio bisiesto\bin\Debug\net6.0\Anio bisiesto.exe
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Anio bisiesto\bin\Debug\net6.0\Anio bisiesto.deps.json
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Anio bisiesto\bin\Debug\net6.0\Anio bisiesto.runtimeconfig.json
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Anio bisiesto\bin\Debug\net6.0\Anio bisiesto.dll
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Anio bisiesto\bin\Debug\net6.0\Anio bisiesto.pdb
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Anio bisiesto\obj\Debug\net6.0\Anio bisiesto.csproj.AssemblyReference.cache
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Anio bisiesto\obj\Debug\net6.0\Anio bisiesto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Anio bisiesto\obj\Debug\net6.0\Anio bisiesto.AssemblyInfoInputs.cache
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Anio bisiesto\obj\Debug\net6.0\Anio bisiesto.AssemblyInfo.cs
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Anio bisiesto\obj\Debug\net6.0\Anio bisiesto.csproj.CoreCompileInputs.cache
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Anio bisiesto\obj\Debug\net6.0\Anio bisiesto.dll
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Anio bisiesto\obj\Debug\net6.0\refint\Anio bisiesto.dll
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Anio bisiesto\obj\Debug\net6.0\Anio bisiesto.pdb
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Anio bisiesto\obj\Debug\net6.0\Anio bisiesto.genruntimeconfig.cache
+C:\Repository\NET\Unidad02\Lab01.ParaPensar\Anio bisiesto\obj\Debug\net6.0\ref\Anio bisiesto.dll
