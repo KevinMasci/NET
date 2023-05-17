@@ -1,0 +1,12 @@
+C:\Repository\NET\Unidad02\Lab02.Clases\Clases\bin\Debug\net6.0\Clases.deps.json
+C:\Repository\NET\Unidad02\Lab02.Clases\Clases\bin\Debug\net6.0\Clases.dll
+C:\Repository\NET\Unidad02\Lab02.Clases\Clases\bin\Debug\net6.0\Clases.pdb
+C:\Repository\NET\Unidad02\Lab02.Clases\Clases\obj\Debug\net6.0\Clases.csproj.AssemblyReference.cache
+C:\Repository\NET\Unidad02\Lab02.Clases\Clases\obj\Debug\net6.0\Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\NET\Unidad02\Lab02.Clases\Clases\obj\Debug\net6.0\Clases.AssemblyInfoInputs.cache
+C:\Repository\NET\Unidad02\Lab02.Clases\Clases\obj\Debug\net6.0\Clases.AssemblyInfo.cs
+C:\Repository\NET\Unidad02\Lab02.Clases\Clases\obj\Debug\net6.0\Clases.csproj.CoreCompileInputs.cache
+C:\Repository\NET\Unidad02\Lab02.Clases\Clases\obj\Debug\net6.0\Clases.dll
+C:\Repository\NET\Unidad02\Lab02.Clases\Clases\obj\Debug\net6.0\refint\Clases.dll
+C:\Repository\NET\Unidad02\Lab02.Clases\Clases\obj\Debug\net6.0\Clases.pdb
+C:\Repository\NET\Unidad02\Lab02.Clases\Clases\obj\Debug\net6.0\ref\Clases.dll

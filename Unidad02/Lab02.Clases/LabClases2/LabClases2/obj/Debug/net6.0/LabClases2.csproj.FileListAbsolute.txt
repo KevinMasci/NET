@@ -1,0 +1,5 @@
+C:\Repository\NET\Unidad02\Lab02.Clases\LabClases2\LabClases2\obj\Debug\net6.0\LabClases2.csproj.AssemblyReference.cache
+C:\Repository\NET\Unidad02\Lab02.Clases\LabClases2\LabClases2\obj\Debug\net6.0\LabClases2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\NET\Unidad02\Lab02.Clases\LabClases2\LabClases2\obj\Debug\net6.0\LabClases2.AssemblyInfoInputs.cache
+C:\Repository\NET\Unidad02\Lab02.Clases\LabClases2\LabClases2\obj\Debug\net6.0\LabClases2.AssemblyInfo.cs
+C:\Repository\NET\Unidad02\Lab02.Clases\LabClases2\LabClases2\obj\Debug\net6.0\LabClases2.csproj.CoreCompileInputs.cache
