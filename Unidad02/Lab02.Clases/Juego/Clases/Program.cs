@@ -6,6 +6,7 @@
         {
             Juego game = new Juego();
             game.ComenzarJuego();
+            game.CompararRecord();
         }
     }
 }

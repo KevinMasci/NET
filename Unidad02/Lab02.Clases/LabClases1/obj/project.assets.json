@@ -1,45 +1,26 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
-      "Clases/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/Clases.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Clases.dll": {}
-        }
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "Clases/1.0.0": {
-      "type": "project",
-      "path": "../Clases/Clases.csproj",
-      "msbuildProject": "../Clases/Clases.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": [
-      "Clases >= 1.0.0"
-    ]
+    "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\kevin\\.nuget\\packages\\": {}
+    "C:\\Users\\Kevin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repository\\NET\\Unidad02\\Lab02.Clases\\LasClases1\\LabClases1.csproj",
+      "projectUniqueName": "C:\\Repository\\NET\\Unidad02\\Lab02.Clases\\LabClases1\\LabClases1.csproj",
       "projectName": "LabClases1",
-      "projectPath": "C:\\Repository\\NET\\Unidad02\\Lab02.Clases\\LasClases1\\LabClases1.csproj",
-      "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-      "outputPath": "C:\\Repository\\NET\\Unidad02\\Lab02.Clases\\LasClases1\\obj\\",
+      "projectPath": "C:\\Repository\\NET\\Unidad02\\Lab02.Clases\\LabClases1\\LabClases1.csproj",
+      "packagesPath": "C:\\Users\\Kevin\\.nuget\\packages\\",
+      "outputPath": "C:\\Repository\\NET\\Unidad02\\Lab02.Clases\\LabClases1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -52,11 +33,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "C:\\Repository\\NET\\Unidad02\\Lab02.Clases\\Clases\\Clases.csproj": {
-              "projectPath": "C:\\Repository\\NET\\Unidad02\\Lab02.Clases\\Clases\\Clases.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -84,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

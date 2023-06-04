@@ -2,7 +2,7 @@
 {
     public class Juego
     {
-        private int _record;
+        private int _record = 0;
 
         public void ComenzarJuego()
         {
@@ -18,20 +18,20 @@
                 int.TryParse(input, out maxNumero);
 
                 Jugada jugada = new Jugada(maxNumero);
-
-                
-
-
+                jugada.Comparar();
             }
             
         }
 
-        private void CompararRecord()
+        public void CompararRecord()
         {
-            throw new System.NotImplementedException();
+            if(jugada.Intentos > _record)
+            {
+                _record = jugada.Intentos;
+            }
         }
 
-        private void Continuar()
+        public void Continuar()
         {
             throw new System.NotImplementedException();
         }

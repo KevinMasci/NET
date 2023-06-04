@@ -6,16 +6,12 @@ using System.Threading.Tasks;
 
 namespace Geometria
 {
-    public class Poligono
+    public abstract class Poligono
     {
-        public void CalcularPerimetro()
-        {
-            throw new System.NotImplementedException();
-        }
+        public abstract float CalcularPerimetro();
 
-        public void CalcularSuperficie()
-        {
-            throw new System.NotImplementedException();
-        }
+
+        public abstract float CalcularSuperficie();
+
     }
 }

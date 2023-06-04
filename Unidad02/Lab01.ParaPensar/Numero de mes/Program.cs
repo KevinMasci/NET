@@ -1,8 +1,23 @@
 ﻿internal class Program
 {
+    enum Meses
+    {
+        enero = 1,
+        febrero,
+        marzo,
+        abril,
+        mayo,
+        junio,
+        julio,
+        agosto,
+        septiembre,
+        octubre,
+        noviembre,
+        diciembre
+    };
     private static void Main(string[] args)
     {
-        var mesNumero = new Dictionary<string, int>()
+        /*var mesNumero = new Dictionary<string, int>()
         {
             {"enero", 1 },
             {"febrero", 2 },
@@ -16,12 +31,12 @@
             {"octubre", 10 },
             {"noviembre", 11 },
             {"diciembre", 12 },
-        };
+        };*/
         Console.WriteLine("Ingrese el nombre de un mes");
         string mes = Console.ReadLine().ToLower();
 
-        int numero = mesNumero[mes];
-        Console.WriteLine("{0} {1}", mes, numero);
+        //int numero = mesNumero[mes];
+        Console.WriteLine("{0} {1}", mes, Meses.mes);
         Console.ReadKey();
     }
 }
