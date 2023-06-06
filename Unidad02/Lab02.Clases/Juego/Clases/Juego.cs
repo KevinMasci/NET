@@ -4,51 +4,85 @@
     {
         private int _record = 0;
 
+        public Juego() 
+        { 
+            _record = int.MaxValue;
+        }
         public void ComenzarJuego()
         {
-            Console.WriteLine("Bienvenido al juego!");
-            bool jugar = true;
+            int numeroMaximo = PreguntarMaximo();
+            Jugada jugada = new Jugada(numeroMaximo);
 
-            while (jugar)
+            bool adivino = false;
+            int intentos = 0;
+
+            do
             {
-                Console.Write("Ingrese el máximo número para adivinar: ");
-                string input = Console.ReadLine();
+                int numero = PreguntarNumero();
+                intentos++;
 
-                int maxNumero;
-                int.TryParse(input, out maxNumero);
+                adivino = jugada.Comparar(numero);
+            } while (!adivino);
 
-                Jugada jugada = new Jugada(maxNumero);
-                jugada.Comparar();
+            if (intentos < _record)
+            {
+                _record = intentos;
+                Console.WriteLine("Nuevo record!");
             }
-            
+
+            CompararRecord();
+            Continuar();
+
         }
 
         public void CompararRecord()
         {
-            if(jugada.Intentos > _record)
-            {
-                _record = jugada.Intentos;
-            }
+            Console.WriteLine($"El récord actual es: {_record} intentos.");
         }
 
         public void Continuar()
         {
-            throw new System.NotImplementedException();
+            Console.WriteLine("Quiere jugar otra partida? (s/n)");
+            string input = Console.ReadLine();
+
+            if (input.ToLower() == "s")
+            {
+                ComenzarJuego();
+            }
+            else
+            {
+                Console.WriteLine("¡Gracias por jugar!");
+            }
         }
 
-        public Juego()
+        private int PreguntarMaximo()
         {
-        
+            Console.WriteLine("Ingresa el número máximo para adivinar:");
+            string input = Console.ReadLine();
+            int numeroMaximo;
+
+            while (!int.TryParse(input, out numeroMaximo))
+            {
+                Console.WriteLine("Entrada inválida. Ingresa un número válido:");
+                input = Console.ReadLine();
+            }
+
+            return numeroMaximo;
         }
 
-        private void PreguntarMaximo()
+        private int PreguntarNumero()
         {
-            throw new System.NotImplementedException();
-        }
+            Console.WriteLine("Ingresa un número para adivinar:");
+            string input = Console.ReadLine();
+            int numero;
 
-        private void PreguntarNumero()
-        {
-            throw new System.NotImplementedException();
+            while (!int.TryParse(input, out numero))
+            {
+                Console.WriteLine("Entrada inválida. Ingresa un número válido:");
+                input = Console.ReadLine();
+            }
+
+            return numero;
         }
     }
 }

@@ -7,11 +7,18 @@
       <FileName>Jugada.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Clases.Program">
-    <Position X="1.75" Y="2.75" Width="1.5" />
+  <Class Name="Clases.Juego">
+    <Position X="4" Y="2.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
-      <FileName>Program.cs</FileName>
+      <HashCode>AAAAAAACAAAAACIAAAAAAAAAAAAAAAAAAgBIAAAAAAA=</HashCode>
+      <FileName>Juego.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clases.JugadaConAyuda">
+    <Position X="9" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>JugadaConAyuda.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />

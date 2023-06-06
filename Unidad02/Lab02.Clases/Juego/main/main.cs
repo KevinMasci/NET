@@ -1,7 +1,15 @@
-﻿internal class Program
+﻿using Clases;
+
+namespace Program
 {
-    private static void Main(string[] args)
+    internal class Program
     {
-        Console.WriteLine("Hello, World!");
+        static void Main(string[] args)
+        {
+
+            Juego game = new Juego();
+            game.ComenzarJuego();
+
+        }
     }
 }

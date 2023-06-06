@@ -24,31 +24,25 @@
             set => _numero = value;
         }
 
-        public void Comparar()
-        {
-            do
-            {
-                ++_intentos;
-                Console.WriteLine("Ingrese un numero: ");
-                string input = Console.ReadLine();
-
-                int numIngresado;
-                int.TryParse(input, out numIngresado);
-
-                if (numIngresado == _numero)
-                {
-                    Console.WriteLine("Ganaste!");
-                    _adivino = true;
-                }
-
-            } while (!_adivino);
-        }
-
         public Jugada(int maxNumero)
         {
             Random rnd = new Random();
-            Numero = rnd.Next(maxNumero);
+            _numero = rnd.Next(maxNumero);
+            _adivino = false;
+            _intentos = 0;
         }
 
+        public virtual bool Comparar(int numero)
+        {
+            _intentos++;
+
+            if (numero == _numero)
+            {
+                Console.WriteLine($"¡Adivinaste el número en {_intentos} intentos!");
+                _adivino = true;
+            }
+
+            return _adivino;
+        }
     }
 }
